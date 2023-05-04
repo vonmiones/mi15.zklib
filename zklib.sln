@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mi15libraries", "mi15libraries.csproj", "{98460FE9-AE39-4680-AB62-C074357F279E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceConsole", "DeviceConsole\DeviceConsole.csproj", "{9484EE79-0E13-4AF6-B8A0-30FE8FB0E88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{A69A860F-F2D3-4555-A274-6E2776C6F270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98460FE9-AE39-4680-AB62-C074357F279E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98460FE9-AE39-4680-AB62-C074357F279E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98460FE9-AE39-4680-AB62-C074357F279E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98460FE9-AE39-4680-AB62-C074357F279E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9484EE79-0E13-4AF6-B8A0-30FE8FB0E88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9484EE79-0E13-4AF6-B8A0-30FE8FB0E88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9484EE79-0E13-4AF6-B8A0-30FE8FB0E88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9484EE79-0E13-4AF6-B8A0-30FE8FB0E88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69A860F-F2D3-4555-A274-6E2776C6F270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A860F-F2D3-4555-A274-6E2776C6F270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A860F-F2D3-4555-A274-6E2776C6F270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A860F-F2D3-4555-A274-6E2776C6F270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

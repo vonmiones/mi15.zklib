@@ -1,0 +1,4 @@
+http://localhost:8080/?method=get&command=deviceinfo
+http://localhost:8080/?method=get&command=employees
+http://localhost:8080/?method=get&command=allattlog&action=download
+http://localhost:8080/?method=get&command=alluserinfo&action=download
